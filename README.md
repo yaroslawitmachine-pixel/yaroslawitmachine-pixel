@@ -1,4 +1,4 @@
-### Hi, I'm Yaroslaw 👋
+### Hi, I'm Yaroslav 👋
 
 Full-Stack Developer focused on building scalable web products and SaaS solutions.
 
