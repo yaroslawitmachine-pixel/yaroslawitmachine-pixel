@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi, I'm Yaroslaw 👋
 
-<!--
-**yaroslawitmachine-pixel/yaroslawitmachine-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer focused on building scalable web products and SaaS solutions.
 
-Here are some ideas to get you started:
+### 🧠 What I do
+- Build modern web applications with React Next.js Node.js
+- Design REST APIs and real-time systems
+- Work with databases and cloud infrastructure
+- Integrate AI, automations and third-party services
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+Frontend: React, Next.js, TypeScript, Tailwind  
+Backend: Node.js, Express, NestJS  
+Database: MongoDB, PostgreSQL  
+DevOps: Docker, GitHub Actions, Vercel  
+Other: Stripe, WebSockets, REST APIs
+
+### 📌 Current focus
+- SaaS platforms
+- Automation & integrations
+- Clean architecture & performance
